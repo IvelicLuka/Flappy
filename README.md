@@ -5,6 +5,7 @@ Flappy bird implementation in c and raylib.
 ./a.out
 
 #Building
+
 ./build.sh
 make sure to change the ./I and ./L paths
 
